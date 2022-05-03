@@ -4,8 +4,8 @@
 
 Dentre as tarefas desenvolvidas estão:
 
-- Importação de dados do SPSS 
-- Impotação/exportação de dados do Excel
+- Importação de dados CSV no SPSS
+- Impotação/exportação de dados no Excel
 - Operadores lógicos
 - Manipulação de dados (funções, objetos e variáveis)
 - Estatística descritiva (máxima, mínimo, média, mediana e desvio padrão)
