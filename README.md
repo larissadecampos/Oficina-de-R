@@ -9,4 +9,4 @@ Dentre as tarefas desenvolvidas estão:
 - Operadores lógicos
 - Manipulação de dados (funções, objetos e variáveis)
 - Estatística descritiva (máxima, mínimo, média, mediana e desvio padrão)
-- Estudo de caso: Qual o percentual de pessoas negras matriculadas nas escolas PEIs, em 2012?
+- Estudo de caso: Qual o percentual de pessoas negras matriculadas nas escolas PEIs em 2012?
